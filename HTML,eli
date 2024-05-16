@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Meu E-commerce</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="tcc-eli.css">
 <link rel="stylesheet" href="s.js">
 </head>
 <body>
@@ -18,7 +18,7 @@
 
     <header>
         <div class="header-content">
-        <div><img src="logo.png" class="logo"></div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_dyk6XDKnylPd2nhBrG5OHDx7ssUQvODO65EXCT-V1w&s" class="logo"></div>
         <div class="barraDePesquisa">
         <input type="text" placeholder="Pesquisar...">
         <button type="submit">Buscar</button>
@@ -63,17 +63,17 @@
     <ul class="featured-list">
       <li>
         <figure>
-          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature4.jpg" alt="">
+          <img src="https://carrefourbrfood.vtexassets.com/assets/vtex.file-manager-graphql/images/7f57b785-940c-44df-b57b-54c7f624e927___e8ca4f96e8d0bb12adeac09f432fc126.png" alt="">
         </figure>
       </li>
       <li>
         <figure>
-          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature11.jpg" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2vSnujVNLkDtca5tXgvJrgqkP-NzG6ZKcUdA2oE-cg&s" alt="">
         </figure>
       </li>
       <li>
         <figure>
-          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature6.jpg" alt="">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMhfmHpQVB5KL9iBjpZdqL7H_a0vZTFQPMvPZIpriDho9BorsGbUlZUk0RapekonHbuI&usqp=CAU" alt="">
         </figure>
       </li>
     </ul>
@@ -112,25 +112,25 @@
   <ul class="thumb-list">
     <li>
       <label for="image1">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature4.jpg" alt="">
+        <img src="https://carrefourbrfood.vtexassets.com/assets/vtex.file-manager-graphql/images/7f57b785-940c-44df-b57b-54c7f624e927___e8ca4f96e8d0bb12adeac09f432fc126.png" alt="">
         <span class="outer">
-          <span class="inner">Caption1</span>
+          <span class="inner">Promoção</span>
         </span>
       </label>
     </li>
     <li>
       <label for="image2">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature11.jpg" alt="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2vSnujVNLkDtca5tXgvJrgqkP-NzG6ZKcUdA2oE-cg&s" alt="">
         <span class="outer">
-          <span class="inner">Caption2</span>
+          <span class="inner">Promoção</span>
         </span>
       </label>
     </li>
     <li>
       <label for="image3">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature6.jpg" alt="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMhfmHpQVB5KL9iBjpZdqL7H_a0vZTFQPMvPZIpriDho9BorsGbUlZUk0RapekonHbuI&usqp=CAU" alt="">
         <span class="outer">
-          <span class="inner">Caption3</span>
+          <span class="inner">Promoção</span>
         </span>
       </label>
     </li>
