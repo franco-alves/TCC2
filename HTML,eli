@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu E-commerce</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="s.js">
+</head>
+<body>
+
+
+
+
+
+
+
+
+    <header>
+        <div class="header-content">
+        <div><img src="logo.png" class="logo"></div>
+        <div class="barraDePesquisa">
+        <input type="text" placeholder="Pesquisar...">
+        <button type="submit">Buscar</button>
+        </div>
+        <div class="fraseDeImpacto">Frase de impacto</div>
+        </div>
+        </header>
+        <nav>
+        <ul>
+        <li><a href="#">Criar sua Conta</a></li>
+        <li><a href="#">Entrar</a></li>
+        <li><a href="#">Carrinho</a></li>
+        </ul>
+        </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="radio" id="image1" name="image" checked>
+<input type="radio" id="image2" name="image">
+<input type="radio" id="image3" name="image">
+
+<div class="container">
+  <div class="featured-wrapper">
+    <ul class="featured-list">
+      <li>
+        <figure>
+          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature4.jpg" alt="">
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature11.jpg" alt="">
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature6.jpg" alt="">
+        </figure>
+      </li>
+    </ul>
+
+    
+
+
+
+
+
+
+
+    <ul class="flechas">
+      <li>
+        <label for="image1"></label>
+      </li>
+      <li>
+        <label for="image2"></label>
+      </li>
+      <li>
+        <label for="image3"></label>
+      </li>
+    </ul>
+    <ul class="dots">
+      <li>
+        <label for="image1"></label>
+      </li>
+      <li>
+        <label for="image2"></label>
+      </li>
+      <li>
+        <label for="image3"></label>
+      </li>
+    </ul>
+  </div>
+  <ul class="thumb-list">
+    <li>
+      <label for="image1">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature4.jpg" alt="">
+        <span class="outer">
+          <span class="inner">Caption1</span>
+        </span>
+      </label>
+    </li>
+    <li>
+      <label for="image2">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature11.jpg" alt="">
+        <span class="outer">
+          <span class="inner">Caption2</span>
+        </span>
+      </label>
+    </li>
+    <li>
+      <label for="image3">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/unsplash_nature6.jpg" alt="">
+        <span class="outer">
+          <span class="inner">Caption3</span>
+        </span>
+      </label>
+    </li>
+  </ul>
+</div>
+
+<footer class="page-footer">
+<p>&copy; 2024 Meu E-commerce. Todos os direitos reservados.</p>
+
+    
+</footer>
+
+</body>
+</html>
